@@ -38,6 +38,7 @@ pip install pywhatkit
 pip install wikipedia
 pip install pyjokes
 pip install python-weather
+pip install Flask
 
 ```
 
