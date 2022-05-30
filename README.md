@@ -11,17 +11,18 @@ Then whatever 'Maya' found something for me it will talk. That's why i need a pa
 pip install pyttsx3
 ```
 
-Then I need a install pyaudio which run audio in my system. To install this package, sometimes it can't install. So if you make your Python version lesst than 3.6 then it might work. However, I used 
-```
-pip install Flask
-```
-```
-virtualenv flask
-```
-then I install my PyAudio package. 
+I install my PyAudio package. 
 ```
 pip install PyAudio
 ```
+Then I need a install pyaudio which run audio in my system. To install this package, sometimes it can't install. So if you make your Python version lesst than 3.6 then it might work. However, I used 
+
+```
+pip install PyAudio
+pipwin install PyAudio
+```
+As I install in windows that why I used pipwin install PyAudio
+then,
 If it still a issue for any of you can shoot me an email to 'baisahkmuhfat@yahoo.com'
 
 Now everthing should work. 
