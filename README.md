@@ -37,8 +37,10 @@ pip install wikipedia
 pip install pyjokes
 pip install python-weather
 pip install Flask
-
 ```
+
+https://user-images.githubusercontent.com/93491482/170915845-43219a57-e82b-4177-9fcd-aec6a9d82b37.mp4
+
 
 If you are stuck with any installing issue let me know, 
 Email: baisahkhmuhfat@yahoo.com
