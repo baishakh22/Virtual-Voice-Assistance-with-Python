@@ -11,19 +11,19 @@ Then whatever 'Maya' found something for me it will talk. That's why i need a pa
 pip install pyttsx3
 ```
 
-I install my PyAudio package. 
+Now install PyAudio package. 
 ```
 pip install PyAudio
 ```
-Then I need a install pyaudio which run audio in my system. To install this package, sometimes it can't install. So if you make your Python version lesst than 3.6 then it might work. However, I used 
+To install PyAudio package, sometimes it can't install. So if you make your Python version lesst than 3.6 then it might work. However, I used this command in my windows, that solve my issue.
 
 ```
-pip install PyAudio
+pip install pipwin
 pipwin install PyAudio
 ```
-As I install in windows that why I used pipwin install PyAudio
-then,
-If it still a issue for any of you can shoot me an email to 'baisahkmuhfat@yahoo.com'
+As I install in windows that why I used pipwin install PyAudio. If you using this in your macbook m1, then try this (https://stackoverflow.com/questions/68251169/unable-to-install-pyaudio-on-m1-mac-portaudio-already-installed) documentation that might solve your issue.  
+
+Still if are facing same issue, you can shoot me an email to 'baisahkmuhfat@yahoo.com'
 
 Now everthing should work. 
 In this module this is not a crazy project. It willl response with limited command. Like, today's date, day, month, year. It also play music from youtube, search information from wikipedia, send messgage to whatsapp, tell me the jokes, weather update, set up an alarm and some basic command. Here, if my program can't help to search then it will pass to google search, which I added in else statement. 
@@ -31,8 +31,6 @@ Here are the list of package I was need to install
 ```
 pip install SpeechRecognition
 pip install pyttsx3
-pip install Flask
-virtualenv flask
 pip install PyAudio
 pip install pywhatkit
 pip install wikipedia
