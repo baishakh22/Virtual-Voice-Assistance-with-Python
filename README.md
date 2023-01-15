@@ -26,8 +26,7 @@ As I install in windows that why I used pipwin install PyAudio. If you using thi
 Still if are facing same issue, you can shoot me an email to 'baisahkmuhfat@yahoo.com'
 
 Now everything should work. 
-In this module this is not a crazy project. It will response with limited command. Like, today's date, day, month, year. It also play music from YouTube, search information from Wikipedia, send message to WhatsApp, tell me the jokes, weather update, set up an alarm and some basic command. Here, if my program can't help to search then it will pass to google search, which I added in else statement. 
-Here are the list of package I was need to install
+In this module, this is not a crazy project. It will respond with limited command. Like, today's date, day, month, and year. It also plays music from YouTube, search for information from Wikipedia, send message to WhatsApp, tell me jokes, and weather update, set up an alarm, and some basic command. Here, if my program can't help to search then it will pass to google search, which I added in the else statement. Here are the lists of packages I needed to install
 ```
 pip install SpeechRecognition
 pip install pyttsx3
