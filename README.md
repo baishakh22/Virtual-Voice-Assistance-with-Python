@@ -15,7 +15,7 @@ Now install PyAudio package.
 ```
 pip install PyAudio
 ```
-To install PyAudio package, sometimes it can't install. So if you make your Python version lesst than 3.6 then it might work. However, I used this command in my windows, that solve my issue.
+To install PyAudio package, sometimes it can't install. So if you make your Python version less than 3.6 then it might work. However, I used this command in my windows, that solve my issue.
 
 ```
 pip install pipwin
@@ -25,8 +25,8 @@ As I install in windows that why I used pipwin install PyAudio. If you using thi
 
 Still if are facing same issue, you can shoot me an email to 'baisahkmuhfat@yahoo.com'
 
-Now everthing should work. 
-In this module this is not a crazy project. It willl response with limited command. Like, today's date, day, month, year. It also play music from youtube, search information from wikipedia, send messgage to whatsapp, tell me the jokes, weather update, set up an alarm and some basic command. Here, if my program can't help to search then it will pass to google search, which I added in else statement. 
+Now everything should work. 
+In this module this is not a crazy project. It will response with limited command. Like, today's date, day, month, year. It also play music from YouTube, search information from Wikipedia, send message to WhatsApp, tell me the jokes, weather update, set up an alarm and some basic command. Here, if my program can't help to search then it will pass to google search, which I added in else statement. 
 Here are the list of package I was need to install
 ```
 pip install SpeechRecognition
