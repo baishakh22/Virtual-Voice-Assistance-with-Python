@@ -2,7 +2,7 @@
 Here I'm creating a virtual voice assistance like alexa, siri or google assistance. I named as 'Maya' which is Greek name means water. For code editor I'm going to use PyCharm community version. After I installed it I can named as i want. I named it as virtual assistance. 
 
 Before I start I need to install some package.
-First I will install speechRecognition package which help python to under my voice.
+First I will install speechRecognition package which help python to understand my voice.
 ```
 pip install SpeechRecognition
 ```
